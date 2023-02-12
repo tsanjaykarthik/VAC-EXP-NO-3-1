@@ -1,0 +1,65 @@
+.title{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.644);
+}
+.tab{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.yummy{
+    position: relative;
+    padding-top: 20px;
+}
+.gap{
+    position: relative;
+    padding-left: 100px;
+}
+.gold{
+    position: relative;
+    padding-top: 18px;
+}
+.silver{
+    position: relative;
+    padding-left: 96px;
+}
+.yummy1{
+    position: relative;
+    padding-top: 20px;
+}
+.gap1{
+    position: relative;
+    padding-left: 100px;
+}
+.sil{
+    position: relative;
+    padding-left: 96px;
+}
+.lis{
+    position: relative;
+    padding-top: 0px;
+}
+.period{
+    position: relative;
+    padding-bottom: 155px;
+}
+.str{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.end{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.maggi{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.see{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 10px;
+}
